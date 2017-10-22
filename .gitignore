@@ -11,3 +11,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Config/DefaultEngine.ini
+Content/maps/NewMap.umap
