@@ -15,5 +15,3 @@ Config/DefaultEngine.ini
 Content/maps/NewMap.umap
 *.umap
 *.umap
-*.umap
-*.uasset
