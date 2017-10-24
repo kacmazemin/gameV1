@@ -13,3 +13,5 @@ Saved
 *.xcworkspace
 Config/DefaultEngine.ini
 Content/maps/NewMap.umap
+*.umap
+*.umap
